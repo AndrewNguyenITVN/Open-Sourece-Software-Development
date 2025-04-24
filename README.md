@@ -21,8 +21,8 @@ The course emphasizes **hands-on practice**, **collaboration**, and **community 
 ### 🛠 Main Technologies:
 - **Operating System**: Linux  
 - **Version Control**: Git, GitHub  
-- **Languages/Frameworks**: [e.g., Python, Node.js, Docker, etc.]  
-- **CI/CD Tools**: [e.g., GitHub Actions, Jenkins]  
+- **Languages/Frameworks**: [Docker, etc.]  
+- **CI/CD Tools**: [GitHub Actions, Jenkins]  
 
 ### 🧩 Objectives:
 - ✔️ Understand and apply OSS licensing principles  
